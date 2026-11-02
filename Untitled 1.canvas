@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"b4e0b562108e65ea","x":-752,"y":-399,"width":400,"height":400,"type":"group","label":"Rust Notes"},
+		{"id":"c47ff1554401fffc","type":"link","url":"https://rust-book.cs.brown.edu/ch00-00-introduction.html","x":-261,"y":-443,"width":1295,"height":864}
+	],
+	"edges":[]
+}

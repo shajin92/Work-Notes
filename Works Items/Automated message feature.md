@@ -1,0 +1,6 @@
+  - [x] try to remove the business show composer handling ✅ 2026-06-19
+  - [x] Need to handle new figma ✅ 2026-06-19
+  - [x] need to handle the select file handling ✅ 2026-06-19
+  - [x] need to remove the wms get api ✅ 2026-06-19
+  - [x] strings need to translate ✅ 2026-06-19
+  - [x] handled the select file ✅ 2026-06-19
