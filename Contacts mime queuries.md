@@ -6,4 +6,3 @@
   
 2. To invoke them use the adb qu 
    adb -s RZGL12ERHQE shell am start -W \                                                                                             -a android.intent.action.VIEW \                                                                                                           -d content://com.android.contacts/data/44606 \                                                                              -t vnd.android.cursor.item/vnd.com.aratai.chat.call.audio \                                                             -n com.aratai.chat/com.zoho.chat.ContactAction
-3. 
