@@ -287,7 +287,7 @@ From RevenueCat's 2021 blog post. This is history; check what applies today befo
 - **Today's limit:** Google Pay's India help page mentions automatic payments up to **₹15,000** per transaction without extra approval, but the page's own dates are from 2021. Not confirmed as current.
 - Note the two figures are different things: ₹5,000 was a Play **product price** threshold in 2021; ₹15,000 is a **per-payment** limit on automatic charges.
 
-**Say:** "I'm in India, so I know this side first-hand: e-mandates, card verification prompts, renewals that fail. Your team once investigated subscription failures caused by these rules, and that's the kind of regional problem I could pick up for APAC developers."
+**Say:** "I'm in India, so I know this side as a user: e-mandate approvals, card verification prompts, renewals that fail. Your team once investigated subscription failures caused by these rules, and that's the kind of regional problem I could pick up for APAC developers."
 
 ---
 

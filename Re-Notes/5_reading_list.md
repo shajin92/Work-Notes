@@ -2,7 +2,7 @@
 
 The content of these pages, summarised, is in `revenuecat_dse_knowledge.md`. Use this list to read the originals.
 
-Everything a Developer Support Engineer candidate should read before the hiring manager call on **Wed 9 Dec 2026, 12:00 AM IST**, in order. All links were checked on 25 Nov 2026.
+Everything a Developer Support Engineer candidate should read before the hiring manager call (Thu 10 Dec 2026, 7:30 PM IST), in order. All links were checked on 25 Nov 2026.
 
 Tick each box when done. For every item, the "Take away" line is what you should be able to say afterwards without looking.
 
@@ -136,6 +136,6 @@ He'll ask about these; you should know them better than anything above.
 | 3 Dec | Part 2, each page explained aloud |
 | 4 Dec | Part 3 and Part 4, including ten forum threads |
 | 5–7 Dec | No new reading. Practise answers (see the prep sheet plan) |
-| 8 Dec | Skim the "Take away" lines only. Rest. |
+| Day before the call | Skim the "Take away" lines only. |
 
 DSA: paused for the trip; 30 minutes a day from 2 Dec; full plan from 10 Dec.

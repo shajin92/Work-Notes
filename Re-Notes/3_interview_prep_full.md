@@ -1,12 +1,14 @@
 # RevenueCat hiring manager interview: prep sheet
 
+> **For the hiring manager call, use `revenuecat_interview_plan.md`.** This file is the full reference behind it, including material for later rounds.
+
 Everything here is based on `resume_revenuecat.md`, the resume RevenueCat has. Anything in [square brackets] is a detail only you know; fill it in before you practise.
 
 ## The facts
 
 | | |
 |---|---|
-| When | **Wednesday 9 Dec 2026, 12:00–12:45 AM IST.** That is midnight at the end of Tuesday 8 Dec. Be at your desk by 11:40 PM on Tuesday night. |
+| When | **Thursday 10 Dec 2026, 7:30–8:15 PM IST** (2:00–2:45 PM UK time), on Zoom. Confirmed 26 Nov. |
 | Who | Guilherme Mota, Developer Support Engineer, Portugal (6:30 PM his time) |
 | Format | Video call, conversational, 45 minutes. The link is in the Google Calendar invite. |
 | Recording | RevenueCat records with BrightHire. You may opt out; it does not affect your application. |
@@ -86,7 +88,7 @@ The SDK is now in the app and a Test Store purchase has gone through. This was t
 
 ### 3. Notice period
 
-Your own files say both 30 days and 8 months. Find the real number in your Zoho offer letter or from HR before the call, and say it without hedging.
+Confirmed 25 Nov: **15 days** at Zoho. Say it plainly.
 
 ## Your answers, drafted
 
@@ -166,13 +168,13 @@ All 10, with full answers, are in "Every reported question, with an answer to sa
 
 ### Notice period and availability
 
-> My notice period is [the real number]. I can interview during [your hours], and I'm fine with APAC working hours.
+> My notice period at Zoho is 15 days. I'm fine with APAC working hours.
 
 ## Questions to ask him
 
 1. You moved from mobile engineering into support. What made you switch, and what was harder than you expected?
 2. What does a normal ticket look like, and how much of your day is debugging versus writing?
-3. How does the APAC shift fit with a team mostly in Europe and the Americas?
+3. How does the APAC shift fit with a team mostly in Europe and the Americas? What hours would I cover, and how much overlap with American mornings is expected?
 4. India is not in your employer-of-record list. How does employment work for someone based here?
 5. What are the stages after this call for this role?
 6. Your blog mentions DSEs building internal tools and docs alongside tickets. How is time split between tickets and that kind of work in practice?
@@ -389,9 +391,26 @@ Source: "Life as a developer support engineer at RevenueCat" (published Dec 2024
 
 Why it matters for you: you are in India, which is in their APAC region, and Indian developers hit payment problems that a US-based team learns about slowly. A line to use when he asks what you would bring:
 
-> I'm in India, so I know the local payment side first-hand: e-mandates, UPI, cards that fail renewals. I read about the e-mandate investigation on your blog, and that's the kind of regional problem I could pick up quickly for APAC developers.
+> I'm in India, so I know the local payment side as a user: e-mandate approvals, UPI, cards that fail on renewal. I read about the e-mandate investigation on your blog, and that's the kind of regional problem I could pick up quickly for APAC developers.
 
 Only say the parts you can back up; read RevenueCat's India post before the call.
+
+### Pay philosophy (CTO's blog post, read 25 Nov)
+
+"The case for location-independent salaries" by Miguel Carranza, the CTO (2021, updated 2023). He is the person you'd meet in the founder round.
+
+- **Same pay everywhere,** set at the 80th percentile of San Francisco salaries for companies of their size. Reasons given: the work is the same quality anywhere, not everyone can move to the US, good people have remote options anyway, and their mission is helping developers earn a living wherever they live.
+- **No negotiation,** from day one. He doesn't want the best negotiator to earn the most, and admits they've lost good candidates over it. So don't negotiate; ask questions about the contract instead.
+- **Cons he names:**
+  1. It costs more than location-based pay. Their answer is "talent density": fewer people, each expected to produce Silicon Valley-level output. Expect a high bar.
+  2. It's much easier to hire in low-cost countries, so the team grows faster outside California. But most customer activity happens during American mornings, so time-zone coverage matters to them.
+
+What this means for you: US Pacific 9 AM is 10:30 PM IST, and US Eastern 9 AM is 7:30 PM IST. Ask what hours the APAC role covers, and how much overlap with American mornings is expected.
+
+Two lines you could use with the CTO, only if they fit the conversation:
+> I read your post on location-independent salaries. The no-negotiation part made the process easier for me to trust.
+
+> Your post mentions most activity happens in American mornings. How does the APAC support shift fit with that?
 
 ## Reading list (all checked 24–25 Nov)
 
@@ -409,17 +428,17 @@ Skip: Scoutify (generated questions and a generic process).
 
 ## Do I need DSA for RevenueCat?
 
-- **For this call (9 Dec): no.** It is a conversation about your background, the role and their values. No coding.
+- **For this call (10 or 11 Dec): no.** It is a conversation about your background, the role and their values. No coding.
 - **For a later round: yes, a little.** Candidates for this exact role report a live coding interview after the take-home. RevenueCat says its coding problems come from day-to-day work and avoid obscure algorithms, and they judge how you collaborate and explain, not only the answer.
 - **What that means in practice:** `dsa-2-weeks/week-0-basics.md` and days 1–4 of `week-1.md` (arrays, strings, hash maps, two pointers, sliding window, stacks) are enough. Trees, graphs, backtracking and dynamic programming are unlikely here.
 - **More useful than extra DSA for this company:** reading logs, debugging an Android integration, writing a clear reply to a developer, and knowing the RevenueCat SDK and dashboard.
 - **Bjak is different.** Their first step is a proctored test with two LeetCode-style questions, so the full three-week plan still matters there.
 
-Order of priority until 9 Dec: stories and spoken answers first, RevenueCat product knowledge second, one hour of DSA basics a day third.
+Order of priority until the call: stories and spoken answers first, RevenueCat product knowledge second, one hour of DSA basics a day third.
 
 ## The night of the call
 
-- Sleep in the afternoon on Tuesday; the call is at midnight.
+- If the call is in the evening, eat early and be at your desk 20 minutes before.
 - Test camera, microphone, headphones and internet by 11:00 PM. Keep a phone hotspot ready.
 - Have on paper: your four stories as bullet points, the five questions, your notice period.
 - Close every AI tool and note-taker before joining.
@@ -427,7 +446,7 @@ Order of priority until 9 Dec: stories and spoken answers first, RevenueCat prod
 
 ## Plan until then (trip to Meghalaya 26 Nov – 1 Dec)
 
-You're away from the laptop from the evening of 26 Nov until you land in Chennai at 9 PM on 1 Dec. That leaves 25–26 Nov before, and 2–8 Dec after.
+You're away from the laptop from the evening of 26 Nov until you land in Chennai at 9 PM on 1 Dec. That leaves 25–26 Nov before, and 2 Dec until the call (now 10 or 11 Dec) after.
 
 | Dates | Do |
 |---|---|
@@ -440,6 +459,7 @@ You're away from the laptop from the evening of 26 Nov until you land in Chennai
 | **5 Dec** | Say all 10 real answers aloud; record yourself on your phone; listen back. |
 | **6 Dec** | One full mock interview (with me, or a friend reading the questions). Fix what sounded weak. |
 | **7 Dec** | Own material: your resume line by line, the billing code, the questions to ask him. |
-| **8 Dec** | Light review of the "Say" lines only. Sleep in the afternoon; the call is at midnight. |
+| **8–9 Dec** | Follow `revenuecat_interview_plan.md` (it is the current plan). |
+| **Call day (10 or 11 Dec)** | Light review of the "Say" lines only. Test camera, microphone and internet an hour before. |
 
 DSA: paused for the trip. From 2 Dec, 30 minutes a day only; full plan resumes on 10 Dec.
